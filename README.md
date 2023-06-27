@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About me 
-Hello! I am Azdine Bahloul, and welcome to my GitHub profile. Allow me to introduce myself briefly.
+Hello, I am Azdine, a Data Analyst based in Nice, France. Welcome to my GitHub profile. Allow me to introduce myself briefly.
 
 I am a highly skilled data analyst with a unique blend of expertise and experience. With a background as a former mathematics and economics professor, I bring a pedagogical approach to my data analysis work. I have a natural ability to simplify complex concepts and effectively communicate them to my audience. 🎓
 
