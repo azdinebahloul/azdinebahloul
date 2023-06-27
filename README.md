@@ -11,6 +11,8 @@ As a data analyst, I am committed to delivering results that not only inform but
 ## Skills
 ### Technical Skills
 
+Here is a list of my technical skills:
+
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
 
   ![SQL](https://img.shields.io/badge/-SQL-orange?logo=postgresql&logoColor=white&style=flat-square)
@@ -25,22 +27,16 @@ As a data analyst, I am committed to delivering results that not only inform but
 
 Here is a list of my non-technical skills as a data analyst:
 
-- Effective Communication
   ![Communication](https://img.shields.io/badge/-Communication-brightgreen?style=flat-square)
 
-- Critical Thinking
   ![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-orange?style=flat-square)
 
-- Problem Solving
   ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-blueviolet?style=flat-square)
 
-- Teamwork
   ![Teamwork](https://img.shields.io/badge/-Teamwork-yellow?style=flat-square)
 
-- Time Management
   ![Time Management](https://img.shields.io/badge/-Time%20Management-blue?style=flat-square)
 
-- Curiosity
   ![Curiosity](https://img.shields.io/badge/-Curiosity-purple?style=flat-square)
 
 
