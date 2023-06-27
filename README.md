@@ -8,5 +8,8 @@ My true passion lies in storytelling with data. I believe that data has the powe
 
 As a data analyst, I am committed to delivering results that not only inform but also inspire action. I take pride in my ability to break down complex analyses into digestible information, ensuring that all stakeholders understand the significance of the findings. With my strong analytical skills, attention to detail, and a knack for storytelling, I am well-equipped to make a meaningful impact on any data-driven project. 🚀
 
+## Skills
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 ## Contact 
 azdinebahloul@yahoo.com
