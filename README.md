@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ## About me 
 Hello! I am Azdine Bahloul, and welcome to my GitHub profile. Allow me to introduce myself briefly.
 
@@ -9,23 +9,16 @@ My true passion lies in storytelling with data. I believe that data has the powe
 As a data analyst, I am committed to delivering results that not only inform but also inspire action. I take pride in my ability to break down complex analyses into digestible information, ensuring that all stakeholders understand the significance of the findings. With my strong analytical skills, attention to detail, and a knack for storytelling, I am well-equipped to make a meaningful impact on any data-driven project. 🚀
 
 ## Skills
-## Compétences techniques
+### Technical Skills
 
-Voici une liste de mes compétences techniques :
-
-- Python
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
 
-- SQL
   ![SQL](https://img.shields.io/badge/-SQL-orange?logo=postgresql&logoColor=white&style=flat-square)
 
-- Power BI
   [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=white&style=flat-square)](https://powerbi.microsoft.com/)
 
-- Tableau
   ![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau&logoColor=white&style=flat-square)
 
-- Excel
   ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoftexcel&logoColor=white&style=flat-square)
 
   
