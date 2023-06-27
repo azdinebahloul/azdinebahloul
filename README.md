@@ -40,6 +40,15 @@ Here is a list of my non-technical skills as a data analyst:
   ![Curiosity](https://img.shields.io/badge/-Curiosity-purple?style=flat-square)
 
 
-  
-## Contact 
-azdinebahloul@yahoo.com
+## Contact
+
+You can reach out to me through the following channels:
+
+- LinkedIn
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/yourlinkedinprofile/)
+
+- Email
+  [![Email](https://img.shields.io/badge/-Email-red?logo=mail.ru&logoColor=white&style=flat-square)](mailto:youremailaddress@example.com)
+
+- Portfolio
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?logo=notion&logoColor=white&style=flat-square)](https://yournotionportfolio.com/)
