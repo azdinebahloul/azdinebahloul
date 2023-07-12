@@ -48,4 +48,3 @@ You can reach out to me through the following channels:
 
   [![Email](https://img.shields.io/badge/-Email-red?logo=mail.ru&logoColor=white&style=flat-square)](mailto:azdinebahloul@yahoo.com)
 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?logo=notion&logoColor=white&style=flat-square)](https://yournotionportfolio.com/)
