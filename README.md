@@ -50,8 +50,6 @@ You can reach out to me through the following channels:
 
   [![Email](https://img.shields.io/badge/-Email-red?logo=mail.ru&logoColor=white&style=flat-square)](mailto:azdinebahloul@yahoo.com)
 
-## Streak and Trophies
-
 </div>
 
 <div align="center">
@@ -68,3 +66,12 @@ You can reach out to me through the following channels:
 [![trophy](https://github-profile-trophy.vercel.app/?username=azdinebahloul&theme=algolia&row=1)](https://github.com/azdinebahloul)
 </p>
 </div>
+
+<hr>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azdinebahloul&show_icons=true&theme=algolia" alt="azdinebahloul | Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azdinebahloul&layout=compact&langs_count=5&theme=algolia"/>
+
+</div>
+
