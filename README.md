@@ -58,10 +58,13 @@ You can reach out to me through the following channels:
 
 <!-- streak and trophies -->
 
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=azdinebahloul&theme=blue-green"/>
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=azdinebahloul&theme=algolia"/>
 
 </p>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=azdinebahloul&theme=algolia)](https://github.com/azdinebahloul)
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=azdinebahloul&theme=algolia&row=1)](https://github.com/azdinebahloul)
+</p>
 </div>
