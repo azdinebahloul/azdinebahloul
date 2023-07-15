@@ -8,6 +8,8 @@ My true passion lies in storytelling with data. I believe that data has the powe
 
 As a data analyst, I am committed to delivering results that not only inform but also inspire action. I take pride in my ability to break down complex analyses into digestible information, ensuring that all stakeholders understand the significance of the findings. With my strong analytical skills, attention to detail, and a knack for storytelling, I am well-equipped to make a meaningful impact on any data-driven project. 🚀
 
+Furthermore, I invite you to explore my accomplishments and projects by visiting my portfolio through the following link: https://azdinebahloul.github.io/Azdine-Bahloul-Portfolio/. There, you will find concrete examples of my work and my distinctive approach as a data analyst. 📚
+
 ## Skills
 ### Technical Skills
 
