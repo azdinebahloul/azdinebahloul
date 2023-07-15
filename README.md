@@ -50,3 +50,18 @@ You can reach out to me through the following channels:
 
   [![Email](https://img.shields.io/badge/-Email-red?logo=mail.ru&logoColor=white&style=flat-square)](mailto:azdinebahloul@yahoo.com)
 
+## Streak and Trophies
+
+</div>
+
+<div align="center">
+
+<!-- streak and trophies -->
+
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=azdinebahloul&theme=blue-green"/>
+
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=azdinebahloul&theme=algolia)](https://github.com/azdinebahloul)
+
+</div>
